@@ -12,3 +12,6 @@ go run filename.go [args]
 
 Then you're ready to go!
 
+## Notes
+
+Exercises about drawing graphs like exercise 3.1 ~ 3.9 are omitted as they are not that practical.
